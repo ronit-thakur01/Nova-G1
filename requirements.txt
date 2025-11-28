@@ -1,0 +1,12 @@
+python-dotenv
+groq
+Pillow
+rich
+requests
+cohere
+googlesearch-python
+PyQt5
+gunicorn
+flask
+google
+urllib3
